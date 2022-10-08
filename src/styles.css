@@ -61,7 +61,7 @@ body {
  background-size: cover;
  /* background-position: center; */
  height: 100vh;
- opacity: .7;
+ opacity: .9;
 }
 
 .text{
@@ -71,6 +71,21 @@ body {
   position: absolute;
   top: calc(50% - 100px);
   padding: 30px;
+}
+
+#table-products{
+  display: grid;
+  grid-gap: 1.75rem;
+  grid-template-columns: repeat(auto-fill, mixmax(200px, 1fr));
+  grid-auto-rows: minmax(100px, auto);
+}
+/* https://www.youtube.com/watch?v=yvXVO8zHRYM */
+#card{
+
+  display: flex;
+  flex-wrap: wrap;
+  width: 20%;
+
 }
 
 @media (min-width: 768px) {
