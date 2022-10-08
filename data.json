@@ -1,0 +1,124 @@
+{
+    "suculents": [
+        {
+            "id": 1,
+            "name": "Agave",
+            "description": "Crecerá fenomenal en zonas luminosas y con temperaturas entre 20ºC y 30ºC. Necesita riego en verano, especialmente si hace mucho calor, y prácticamente nada en invierno.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-agave_605f7397_1000x1500.jpg"    
+        },
+        {
+            "id": 2,
+            "name": "Aloe Cosmo",
+            "description": "Puedes tenerlo en interior con luz y bien ventilado, o en exterior siempre que sea en semisombra. Riégalo cada quince días en primavera y verano, y mensualmente en invierno.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-aloe-cosmo_29de3cc7_1280x1820.jpg"    
+        },
+        {
+            "id": 3,
+            "name": "Aloe Vera",
+            "description": "El Aloe vera es una planta poco exigente, aunque el exceso de humedad le sienta muy mal. Sitúala preferiblemente en el exterior en sombra o semisombra.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-aloe-vera_0241aeb3_1280x1820.jpg"    
+        },
+        {
+            "id": 4,
+            "name": "Árbol de jade",
+            "description": "Sus cuidados son muy sencillos y resiste muy bien la sequía, ya que necesita poco riego. Eso sí, agradecerá que lo pulverices de vez en cuando.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-arbol-de-jade_888bfebe_1000x1500.jpg"    
+        },
+        {
+            "id": 5,
+            "name": "Cactus de navidad",
+            "description": "Agradecerá semisombra en vez de sol directo. Los riegos, más frecuentes en verano que en invierno, deberán ser con agua tibia.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-arbol-de-jade_888bfebe_1000x1500.jpg"    
+        },
+        {
+            "id": 6,
+            "name": "Cactus de San Pedro",
+            "description": "Su porte erguido y sus tallos cilíndricos (que pueden alcanzar hasta siete metros de altura) son muy fáciles de reconocer. Ojo a las espinas que son alargadas y de color marrón.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-cactus-de-san-pedro_3f0fd081_1280x1820.jpg"    
+        },
+        {
+            "id": 7,
+            "name": "Cactus de San Pedro",
+            "description": "Necesita mucha luz natural y puede recibir sol directo. En verano basta con regarlas una vez cada diez días y nada en invierno.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-cactus-piedra_529aa7ba_1280x1820.jpg"    
+        },
+        {
+            "id": 8,
+            "name": "Calandrina",
+            "description": "Necesita mucha luz natural y puede recibir sol directo. En verano basta con regarlas una vez cada diez días y nada en invierno.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-calandrina_5fb2d7fb_1280x1820.jpg"    
+        },
+        {
+            "id": 9,
+            "name": "Chumbera",
+            "description": "Las flores tienen muchos pétalos y dan un fruto de sabor dulce y color anaranjado o verdoso llamado higo chumbo. Necesita luz natural y riego moderado porque retiene mucha agua.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-chumbera_8d41c812_1280x1820.jpg"    
+        },
+        {
+            "id": 10,
+            "name": "Cola de burro",
+            "description": "Entra dentro de la categoría de plantas colgantes de interior fáciles de mantener y crece rápido con lo que tendrás que trasplantarla cuando sea necesario. Sus hojas retienen mucha agua así que no te excedas en el riego.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-cola-de-burro_46ddaec2_1280x1820.jpg"    
+        },
+        {
+            "id": 11,
+            "name": "Echeveria",
+            "description": "Le gustan los sitios luminosos pero tolera la sombra, las bajas temperaturas y la sequía.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-echeveria_8be25038_1280x1820.jpg"    
+        },
+        {
+            "id": 12,
+            "name": "Corona de Cristo",
+            "description": "Si la ubicas en un lugar bien soleado, podrás disfrutar de su bonita floración. En cuanto al riego, lo más importante es que te asegures que drena bien así que vacía el plato que tiene debajo para que no se encharque.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-espina-de-cristo_ae37d229_1280x1820.jpg"    
+        },
+        {
+            "id": 13,
+            "name": "Espinazos del diablo",
+            "description": "Sus hojas son auténticos depósitos de agua que le permiten sobrevivir sin ella. Necesita luz pero no sol directo, riego moderado y temperaturas superiores a los 10 ºC.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-espinazo-del-diablo_f653b07a_1280x1820.jpg"    
+        },
+        {
+            "id": 14,
+            "name": "Ferocactus",
+            "description": "Cuando son jóvenes son globulares, pero según van creciendo algunas especies se vuelven columnares. No es muy exigente en cuanto al sustrato pero crecerá mejor si drena bien.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-ferocactus_b464b99e_1280x1820.jpg"    
+        },
+        {
+            "id": 15,
+            "name": "Kalanchoe",
+            "description": "Si no tiene suficiente luz dará menos flores. En cuanto al agua que necesita, se recomienda dejar secar la tierra entre riego y riego.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-kalanchoe_e0950d81_1280x1820.jpg"    
+        },
+        {
+            "id": 16,
+            "name": "Lengua de suegra",
+            "description": "Sus puntiagudas hojas actúan como depósitos de agua con lo que resiste largas temporadas sin riego; de hecho es una de esas plantas que no necesitan agua. Riégala solo cuando el sustrato esté seco.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-lengua-de-suegra_994ecb59_1280x1820.jpg"    
+        },
+        {
+            "id": 17,
+            "name": "Mammillaria",
+            "description": "Los cactus Mammillaria son un género caracterizado por la disposición en espiral de sus areolas. Dependiendo de la especie, sus espinas pueden ser finas, largas y sedosas, dándole un aspecto muy reconocible y aterciopelado. Como el resto de cactus, necesita luz y riego moderado.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-mammillaria_fcb73c58_1280x1820.jpg"    
+        },
+        {
+            "id": 18,
+            "name": "Ojo de dragón",
+            "description": "Tienen unas flores granates acampanadas y con el centro más oscuro que no dejarán indiferente a nadie. Necesitan buena iluminación, una temperatura que oscile entre 15 ºC y 30 ºC y buen drenaje.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-ojo-de-dragon_b38ce071_1280x1820.jpg"    
+        },
+        {
+            "id": 19,
+            "name": "Planta de cebra",
+            "description": "Es perfecta para climas mediterráneo y subtropical, funcionando muy bien como planta de interior siempre y cuando esté en una zona luminosa. Tolera mal el exceso de humedad, así que riégala solo cuando esté seca.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-planta-cebra_a05435f8_1280x1820.jpg"    
+        },
+        {
+            "id": 20,
+            "name": "Piedra lunar",
+            "description": "Tiene pequeños tallos blanquecinos y hojas gruesas ovaladas y aplanadas. Sus flores son pequeñas y con forma de campana de un color blanco verdoso. La frecuencia de riego en verano será más alta que en invierno.",
+            "img": "https://www.clara.es/medio/2022/08/03/plantas-suculentas-piedra-lunar_48f9a7a7_1280x1820.jpg"    
+        }
+    ]
+}
