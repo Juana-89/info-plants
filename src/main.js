@@ -15,7 +15,6 @@ const listSuculents = suculents.map((product) => {
     </div>
     </div>
     </div>
-    </div>
     </div>`)
 }).flat().join('')
 
