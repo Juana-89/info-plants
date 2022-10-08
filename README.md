@@ -1,1 +1,1 @@
-# shopping-cart
+# Info plant
